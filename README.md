@@ -1,7 +1,7 @@
 # ArchSpatial Studio Rig v1.0 (Blender Python Utility)
 **1-Click Architectural 3-Point Lighting Generator for Spatial Design, Product Rendering & VisionOS LookDev.**
 
-![ArchSpatial 3-Point Rig Thumbnail](./thumbnail.png)
+![ArchSpatial 3-Point Rig Thumbnail](./Thumbnail.png)
 
 ## Why This Exists
 Setting up physically accurate architectural lighting in 3D viewports takes hours of manual tweaking. Drawn from real-world NYC flagship showroom lighting design, this lightweight Python script (`ArchSpatial_3Point_Rig.py`) builds a production-ready **2.5 : 1 Contrast Ratio 3-Point Studio Rig** with auto-tracking camera and focus targets in **1 second**.
